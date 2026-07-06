@@ -57,5 +57,10 @@ Flame-Watch-Smart-Mobile-Rover/
 - GPS tracking
 - Live video streaming
 - Mobile application dashboard
+  
+## 🎥 Project Demo
 
+[![YouTube](https://img.shields.io/badge/Watch-Demo-red?logo=youtube&logoColor=white)](https://youtube.com/shorts/V-8FJPi8hZs)
+
+**Video Link:** https://youtube.com/shorts/V-8FJPi8hZs
 
