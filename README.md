@@ -58,7 +58,4 @@ Flame-Watch-Smart-Mobile-Rover/
 - Live video streaming
 - Mobile application dashboard
 
-## 👨‍💻 Author
 
-**Mitthun**
-Software Engineer Trainee | Python Developer | IoT Enthusiast
