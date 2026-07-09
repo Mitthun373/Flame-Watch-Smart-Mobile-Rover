@@ -57,6 +57,13 @@ Flame-Watch-Smart-Mobile-Rover/
 - GPS tracking
 - Live video streaming
 - Mobile application dashboard
+
+## Contributors
+
+- Mitthun G
+- Jaiyanth SK
+
+This project was collaboratively developed as part of our academic project.
   
 ## 🎥 Project Demo
 
