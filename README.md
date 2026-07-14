@@ -67,7 +67,4 @@ This project was collaboratively developed as part of our academic project.
   
 ## 🎥 Project Demo
 
-[![YouTube](https://img.shields.io/badge/Watch-Demo-red?logo=youtube&logoColor=white)](https://youtube.com/shorts/V-8FJPi8hZs)
-
-**Video Link:** https://youtube.com/shorts/V-8FJPi8hZs
-
+https://lnkd.in/p/gKgC_Nyr
