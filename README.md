@@ -65,7 +65,7 @@ https://www.linkedin.com/posts/themitthun_research-paperpresentation-iconic2026-
 
 Special thanks to:
 
-- **Guide:** Sathyabama Ma'am
+- **Guide:** A R Sathyabama Mam
 - **Teammate:** Jaiyanth S K
 
 for their continuous guidance, support, and valuable contributions towards the successful completion and presentation of this research work.
