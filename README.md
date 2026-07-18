@@ -50,6 +50,26 @@ Flame-Watch-Smart-Mobile-Rover/
 │── README.md
 ```
 
+## 🏆 Research Paper Presentation
+
+This project was successfully presented as a research paper at the **2026 International Conference on Intelligent Computing (ICoNIC 2K26)** organized by **Panimalar Engineering College** on **27–28 March 2026**.
+
+**Paper Title:**
+
+**Flame Watch Smart Mobile Rover for Real-Time Fire Detection, Alarm Activation, Mobile Alerts, Bluetooth Navigation, and Camera-Based Environmental Monitoring**
+
+📜 **Paper Presentation Certificate & LinkedIn Post:**  
+https://www.linkedin.com/posts/themitthun_research-paperpresentation-iconic2026-share-7484149200260333569-HHaH/
+
+### 🙏 Acknowledgements
+
+Special thanks to:
+
+- **Guide:** Sathyabama Ma'am
+- **Teammate:** Jaiyanth S K
+
+for their continuous guidance, support, and valuable contributions towards the successful completion and presentation of this research work.
+
 ## 🚀 Future Improvements
 
 - AI-based fire prediction
@@ -64,7 +84,7 @@ Flame-Watch-Smart-Mobile-Rover/
 - Jaiyanth SK
 
 This project was collaboratively developed as part of our academic project.
-  
+
 ## 🎥 Project Demo
 
 https://lnkd.in/p/gKgC_Nyr
